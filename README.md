@@ -1,2 +1,2 @@
 # angular-mqtt
-Dead simple angular mqtt example using mosquitto local broker
+Exemplo de mqtt angular simples
